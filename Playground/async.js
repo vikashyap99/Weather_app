@@ -9,3 +9,4 @@ setTimeout(() => {
 },0);
 
 console.log("Finishing app");
+# App closes.
